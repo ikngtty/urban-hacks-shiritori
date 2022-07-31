@@ -1,2 +1,2 @@
 # Urban Hacks - Siritori
-![description](description.HEIC)
+![description](description.jpg)
